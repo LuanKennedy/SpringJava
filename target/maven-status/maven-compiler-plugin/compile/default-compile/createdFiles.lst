@@ -1,0 +1,8 @@
+project/Application.class
+project/VendedorRepo.class
+project/JogoController.class
+project/JogoRepo.class
+project/VendedorController.class
+project/Utils.class
+project/Jogo.class
+project/Vendedor.class
